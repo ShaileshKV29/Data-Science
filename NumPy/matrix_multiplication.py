@@ -12,4 +12,6 @@ b = np.array([
 ])
 
 c = np.dot(a, b)
+d = a @ b
 print(c)
+print(d)

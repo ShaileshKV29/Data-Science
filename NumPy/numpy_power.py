@@ -6,3 +6,5 @@ print(z1)
 
 z2 = np.sqrt(z1)
 print(z2)
+
+z3 = np.square(z)

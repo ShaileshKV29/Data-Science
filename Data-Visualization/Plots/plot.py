@@ -13,4 +13,3 @@ plt.pie(data['DSA'])
 plt.show()
 plt.scatter(data["DSA"], data['CPP'])
 plt.show()
-
